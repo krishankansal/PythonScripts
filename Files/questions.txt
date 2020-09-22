@@ -1,0 +1,5 @@
+Q1 : Does txt = open(filename) return the contents of the file?
+
+Q2 : Does just doing open(filename) open it in 'r' (read) mode?
+
+Q3 : What does the len() function do?
